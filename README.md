@@ -5,4 +5,4 @@ El objetivo principal del trabajo es analizar una aproximación a la adquisició
 
 Comandos de ejecución:
 
-ansible-playbook -i inventories/tid_hosts.yml site_memoryLinux.yml --ask-vault-pass
+    ansible-playbook -i inventories/tid_hosts.yml site_memoryLinux.yml --ask-vault-pass
